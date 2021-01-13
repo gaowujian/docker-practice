@@ -1,8 +1,0 @@
-2021/01/13 05:53:18 [error] 28#28: *1 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:53:35 [error] 28#28: *1 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:53:37 [error] 28#28: *1 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:53:38 [error] 28#28: *1 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:56:44 [error] 28#28: *2 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:56:45 [error] 28#28: *2 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:57:39 [error] 28#28: *2 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
-2021/01/13 05:57:40 [error] 28#28: *2 directory index of "/public/" is forbidden, client: 172.21.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8080"
